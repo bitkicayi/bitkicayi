@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak Ege</h1>
+
 - 🌱 I’m currently learning python
 
 - 📫 How to reach me **burakege0000@gmail.com**

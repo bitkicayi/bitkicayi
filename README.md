@@ -19,12 +19,12 @@ in short: the loops are infinite, the error codes are meaningless, but as long a
 
 | project | description | tech |
 |---------|-------------|------|
+| [**wireless-packet-scheduler**](https://github.com/bitkicayi/wireless-packet-scheduler) | smart scheduling to minimize packet loss | Python |
+| [**hamming-sec-ded-encoder**](https://github.com/bitkicayi/hamming-sec-ded-encoder) | Hamming SEC-DED error correction encoder | Java |
 | [**heart-disease-naive-bayes**](https://github.com/bitkicayi/heart-disease-naive-bayes) | heart disease classification on the Cleveland dataset | Python · Scikit-learn |
-| [**Grup-3-Kablosuz-Aglar-Projesi**](https://github.com/bitkicayi/Grup-3-Kablosuz-Aglar-Projesi) | smart scheduling to minimize packet loss | Python |
-| [**Syntax-Highlighter**](https://github.com/bitkicayi/Syntax-Highlighter) | java syntax highlighter with real-time parsing | Java |
-| [**Hamming-SEC-DED-Kodlayici**](https://github.com/bitkicayi/Hamming-SEC-DED-Kodlayici) | Hamming SEC-DED error correction encoder | Java |
+| [**syntax-highlighter**](https://github.com/bitkicayi/syntax-highlighter) | java syntax highlighter with real-time parsing | Java |
 | [**pandoc-converter**](https://github.com/bitkicayi/pandoc-converter) | modern document conversion tool built for Pardus | Shell |
-| [**botanik-bahcesi-yonetim-sistemi**](https://github.com/bitkicayi/botanik-bahcesi-yonetim-sistemi) | botanical garden management system (DBMS course project) | PHP |
+| [**botanical-garden-dbms**](https://github.com/bitkicayi/botanical-garden-dbms) | botanical garden management system (DBMS course project) | PHP |
 
 ---
 
